@@ -50,9 +50,3 @@ if con:
          st.write("The Employee will be leave")
         
     
-        
-   
-#engineering	0	0.62561547511694	3	medium	7	0.5009926017746082	1	186.322470915312	yes
-5
-#sales	0	0.8622333627251975	4	medium	5	0.2843037148031055	0	180.51676862425472	yes
-
