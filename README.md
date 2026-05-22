@@ -23,5 +23,5 @@ The model is deployed using Streamlit to provide an interactive web interface.
 
 ## 📂 Project Files
 - Attrion_web.py → Streamlit web app
-- employee_churn_data.sav → Trained ML model
-- requirements.txt → Required libraries
+- My_Project_Employee_Attrion.ipynb → Trained ML model
+
